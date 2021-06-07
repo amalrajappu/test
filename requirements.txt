@@ -3,7 +3,6 @@
 # platform: win-64
 
 certifi==2018.1.18
-daal==2019.2
 daal4py==0.2019.1.1
 django==2.2.13
 hdf5==1.8.20

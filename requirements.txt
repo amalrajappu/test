@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-bzip2==1.0.6
 certifi==2018.1.18
 daal==2019.2
 daal4py==0.2019.1.1
